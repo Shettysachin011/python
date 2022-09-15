@@ -1,0 +1,5 @@
+f=open("demo1.txt","r+")
+a=f.write(" Practice ")
+print(f.readline())
+print(a)
+f.close()
